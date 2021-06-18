@@ -7,6 +7,7 @@
       style="width: 100px; height: 100px"
       :src="url"
       fit="cover"></el-image>
+      <div></div>
   </div>
 </template>
 
